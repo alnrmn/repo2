@@ -1,2 +1,2 @@
-testam via notepad / notepad ++ si PyCharm\
-am dat apoi backslash ca sa pot sa scriu pe alt rand
+cloned the 1st repo on local
+modified the new clone and added it under a new project in GitHub
